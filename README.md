@@ -19,7 +19,7 @@
 
 
 
-<h2> Steps to run it </h2>
+<h2><ins> Steps to run it </ins> </h2>
 <h3>1. Download this repository  </h3>
 <h3>2. Install the packages using CLI in the project folder using " npm install 'package name' " </h3>
 <h3>3. Run the server by typing "node index.js" or "nodemon". The latter will run the server automatically when changes are detected </h3>
