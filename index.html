@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+
+    <meta charset="utf-8">
+    <title>LocIDE®</title>
+  </head>
+
+  <body style="background-color:lightgreen">
+    <h1 style="text-align:center">LocIDE®</h1>
+ <div style=" margin: auto;
+ width: 60%;">
+    <form action="http://localhost:3000/output" method="post">
+      <div>
+      <h4>Select Language: <select style="background-color:whitesmoke;color: black;"  name="lang">
+        <option value="C">C</option>
+        <option value="C++">C++</option>
+        <option value="Java">Java</option>
+        <option value="Python">Python</option>
+        <option value="Node JS">Node JS</option>
+      </select></h4>
+
+      <textarea  cols="65" rows="30" id="code" name="code" placeholder="Type your code here"></textarea>
+      </div>
+
+      <div>
+        <h4>Compile With Input :
+          <input type="radio" name="inputRadio" id="inputRadio" value="true"/>Yes
+          <input type="radio" name="inputRadio" id="inputRadio" value="false"/>No
+        </h4>
+        <textarea cols="30" rows="10" id="input" id="code" name="input" placeholder="Give Input if necessary" ></textarea>
+        <br />  
+        <br>
+      
+
+        <input  class="button1" type="submit" value="Run"  name="submit" />
+      
+    </div>
+
+    </form>
+
+</div>
+  </body>
+</html>

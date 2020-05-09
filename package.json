@@ -1,0 +1,18 @@
+{
+  "name": "local-ide-nodejs",
+  "version": "1.0.0",
+  "description": "A Local IDE built using nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compile-run": "^2.3.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S Shankar Narayanan",
+  "license": "ISC"
+}
