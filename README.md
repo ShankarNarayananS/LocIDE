@@ -1,6 +1,14 @@
 <h1>LocIDE® : A local IDE built using Node JS, Express, Body-Parser, Compile-Run and CodeMirror </h1>
 
-![join1](https://github.com/ShankarNarayananS/LocIDE/blob/master/LocIDE-1.gif)
+<p align="center">
+
+<img src="https://github.com/ShankarNarayananS/LocIDE/blob/master/LocIDE-1.gif">
+
+</p>
+
+<p align="center">
+<img src="https://github.com/ShankarNarayananS/Local-IDE/blob/master/screencapture-127-0-0-1-5500-index-html-2020-05-13-12_52_02.png">
+  </p>
 
 <h2><ins>Features</ins></h2>
 <h3>1. Support for C,C++,Node,Python and Java </h3>
